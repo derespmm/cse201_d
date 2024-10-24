@@ -1,0 +1,30 @@
+Bat Man
+Savings
+6000000.0
+Iron Man
+Savings
+8000000.0
+Spider Man
+Loan
+4000.0
+Super Man
+Loan
+1000.0
+Matt
+Savings
+1550.0
+Evan
+Loan
+500000.0
+Stefan
+Savings
+10000.0
+Iron Man
+Loan
+6000.0
+Matt
+Loan
+900.0
+Cynthia
+Savings
+1000000.0
